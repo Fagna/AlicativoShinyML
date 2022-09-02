@@ -1,4 +1,4 @@
-# AlicativoShinyML
+# App Shiny  Machine Learning 
 
 Application for visualizing machine learning results using Flexdashboard and Shiny libraries in R.
 

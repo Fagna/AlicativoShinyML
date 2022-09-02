@@ -1,4 +1,4 @@
-# App Shiny Machine Learning 
+# Shiny Machine Learning App
 
 Application for visualizing machine learning results using Flexdashboard and Shiny libraries in R.
 
